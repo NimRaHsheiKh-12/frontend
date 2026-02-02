@@ -1,0 +1,19 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# Environment variables
+.env.local
+.env
+.env.*
+
+# Logs
+*.log
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Git
+.git
